@@ -28,7 +28,7 @@ def Hashing(hash):
 
 
     print('''
-        [+] Chose a Hashing option for Encryption :
+        [+] Choose a Hashing option for Encryption :
          ______________________________
                         |
             1) Md5      |   2) SHA1
