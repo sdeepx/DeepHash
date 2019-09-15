@@ -23,7 +23,7 @@ ex-
         {+} Enter Your Input For Encryption - 
         : (Enter your word, ex-) hello world
         
-        [+] Chose a Hashing option for Encryption :
+        [+] Choose a Hashing option for Encryption :
          ______________________________
                         |
             1) Md5      |   2) SHA1
