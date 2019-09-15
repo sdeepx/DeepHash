@@ -2,7 +2,9 @@
 
 Open your Terminal and go to the folder where you downloaded the script.
 ex-
+
         root@kali:~$ cd Downloads/
+        
         root@kali:~/Downloads$ 
         
 then, command python3 DeepHash.py
