@@ -4,7 +4,7 @@
   **NOTE**: Python 3.6 or higher is required.
     
       # clone the repo
-      $ git clone https://github.com/shubha161/Hashing-with-Python
+      $ git clone https://github.com/shubha161/DeepHash
       
       # change the working directory to DeepHash
       $ cd DeepHash
