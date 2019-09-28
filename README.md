@@ -64,5 +64,5 @@ md5 of hello world = 5eb63bbbe01eeed093cb22bb8f5acdc3
     
 
 © DeepHash <br>
-version - 1.1 <br>
+version - 1.2 <br>
 Licensed under the [MIT License](LICENSE).
